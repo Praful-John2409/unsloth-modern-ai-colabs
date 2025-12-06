@@ -56,7 +56,7 @@ Implemented reward modeling using ORPO and DPO techniques.
 
 | Task | Colab Link | Video Link |
 |------|-----------|------------|
-| ORPO and DPO Reward Modeling | [Colab](https://drive.google.com/file/d/1XVOp6eYYd2Vxt7cyFLKxYrxgiZli09T_/view?usp=sharing) | [Video](https://youtu.be/vhxglA0fURw) |
+| GRPO and DPO Reward Modeling | [Colab](https://drive.google.com/file/d/1XVOp6eYYd2Vxt7cyFLKxYrxgiZli09T_/view?usp=sharing) | [Video](https://youtu.be/vhxglA0fURw) |
 
 ---
 
@@ -64,7 +64,7 @@ Implemented reward modeling using ORPO and DPO techniques.
 
 | Task | Colab Link | Video Link |
 |------|-----------|------------|
-| Custom Checkpoint Fine-Tuning | [Colab](https://drive.google.com/file/d/1B0zU-QuydoPQyRbsWWDf8LApdfWOyUKF/view?usp=sharing) | [Video](https://youtu.be/vhxglA0fURw) |
+| Reinforcement Learning with Preference Data | [Colab](https://drive.google.com/file/d/1B0zU-QuydoPQyRbsWWDf8LApdfWOyUKF/view?usp=sharing) | [Video](https://youtu.be/vhxglA0fURw) |
 
 ---
 
@@ -74,7 +74,7 @@ Fine-tuning Unsloth for a mental health chatbot.
 
 | Task | Colab Link | Video Link |
 |------|-----------|------------|
-| Mental Health Chatbot Fine-Tuning | [Colab](https://drive.google.com/file/d/1rJ3bzgu0uU0hFrfjMxW6oMdoRlhW2I-7/view?usp=sharing) | [Video](https://youtu.be/vhxglA0fURw) |
+| Mental Health Chatbot Fine-Tuning - LoRA Parameter-Efficient Fine-Tuning | [Colab](https://drive.google.com/file/d/1rJ3bzgu0uU0hFrfjMxW6oMdoRlhW2I-7/view?usp=sharing) | [Video](https://youtu.be/vhxglA0fURw) |
 
 ---
 
